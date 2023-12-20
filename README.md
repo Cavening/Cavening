@@ -1,1 +1,2 @@
 # Cavening
+Hosting made simple.
